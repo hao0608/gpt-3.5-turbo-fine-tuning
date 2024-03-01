@@ -14,5 +14,6 @@ In `preparing_dataset.ipynb`, I use OpenAI API to generate multiple questions wi
 ### 3. Train a new fine-tuned model
 To train your model, use the `training.ipynb`
 ### 4. Using fine-tuned model
+![picture](https://i.imgur.com/11wR49g.png)
 ## Resources
 Official OpenAI API documentation on fine-tuning: [OpenAI Document](https://platform.openai.com/docs/guides/fine-tuning)
